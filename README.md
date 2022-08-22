@@ -84,3 +84,4 @@ $ pip install -r requirements.txt
 - The jupyter notebook included in 'notebooks' folder has pre executed cells with inline comments and observations
 
 - Verbal answers are collected in 'Answers.pdf' file available in 'reports' folder
+- Power point presentation is available in 'reports' folder
